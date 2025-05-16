@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/shj0218/)
 
 <!--
 **shj02/shj02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
