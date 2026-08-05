@@ -2,7 +2,7 @@
 
 <br/>
 
-## ✨ Skills
+<h2 align="center">✨ Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🛠 Tools
+<h2 align="center">🛠 Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 <br/>
 
-## 📊 Most Used Languages 🔥 Solved.ac
+<h2 align="center">📊 Most Used Languages 🔥 Solved.ac</h2>
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shj02&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
   &nbsp;&nbsp;
