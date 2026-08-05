@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm 혜지</h1>
-<h3 align="center">컴퓨터정보공학과 학생 | 앱 개발에 관심 많아요</h3>
+<h3 align="center">컴퓨터정보공학과</h3>
 
 <p align="center">
   🌱 Android, Flutter, Python 웹 개발 공부 중<br/>
-  🤖 AI를 활용한 앱 개발에 관심 있음<br/>
-  📫 GitHub: <a href="https://github.com/shj02">@shj02</a>
 </p>
 
 <br/>
