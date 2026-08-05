@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to my GITHUB 👋</h1>
 
 <br/>
-<p align="center"><b>✨ Skills</b></p>
+
+## ✨ Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -16,7 +17,9 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<p align="center"><b>🛠 Tools</b></p>
+<br/>
+
+## 🛠 Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -25,7 +28,9 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 <br/>
-<p align="center"><b>📊 Most Used Languages &nbsp;&amp;&nbsp; 🔥 Solved.ac</b></p>
+
+<br/>
+## 📊 Most Used Languages 🔥 Solved.ac
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shj02&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
   &nbsp;&nbsp;
