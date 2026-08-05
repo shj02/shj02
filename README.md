@@ -1,8 +1,4 @@
 <h1 align="center">Welcom to my GITHUB 👋</h1>
-<!-- <h3 align="center">컴퓨터정보공학과</h3> -->
-
-<p align="center">
-</p>
 
 <br/>
 
