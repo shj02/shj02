@@ -1,5 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shj0218)](https://solved.ac/shj0218/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shj0218&layout=compact)
+
 <!--
 **shj02/shj02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
