@@ -1,4 +1,4 @@
-<p align="center" textstyle="bold">Welcom to my GITHUB 👋</p>
+<p align="center"><b>Welcome to my GITHUB 👋</b></p>
 
 <br/>
 
