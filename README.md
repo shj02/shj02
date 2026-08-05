@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=text&text=Welcome%20to%20my%20GITHUB%20👋&fontSize=40&fontColor=ffffff&color=00000000&height=100"/> </p> <p align="center">
+<h1 align="center">Welcome to my GITHUB 👋</h1>
 
 <br/>
 
