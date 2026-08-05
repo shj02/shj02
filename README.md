@@ -19,15 +19,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=shj02&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shj02&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
-</p>
-
-<br/>
-
 ## 🔥 Solved.ac
 
 <p align="center">
