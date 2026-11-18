@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-<br/>
 
 <br/>
 
@@ -62,9 +61,19 @@
     </td>
     <td width="50%">
       <h3>🤟 손말잇기</h3>
-      <img src="https://img.shields.io/badge/%F0%9F%8F%86_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EC%B0%B8%EA%B0%80-FFD700?style=flat-sq
+      <img src="https://img.shields.io/badge/%F0%9F%8F%86_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EC%B0%B8%EA%B0%80-FFD700?style=flat-square"/>
+      <br/>
+      <p>AI 기반 수어 학습/대화 플랫폼 (캡스톤)<br/>
+      MediaPipe 관절 좌표 추출 · LSTM 수어 인식 모델 학습 · LLM 대화 시뮬레이션</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <br/><sub>졸업작품 · 개인 프로젝트 · 2026.11.11 발표</sub>
+    </td>
+  </tr>
+</table>
 
-</br>
+<br/>
 
 <h2 align="center">📊 Most Used Languages 🔥 Solved.ac</h2>
 <p align="center">
