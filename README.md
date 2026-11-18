@@ -33,12 +33,13 @@
   <tr>
     <td width="50%">
       <h3>📱 MyBiz</h3>
+      <img src="https://img.shields.io/badge/%F0%9F%8F%86_%EC%9E%A5%EB%A0%A4%EC%83%81(%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%83%81)-FFD700?style=flat-square"/>
+      <br/>
       <p>소상공인 대상 AI 비서 앱 (Flutter)<br/>
-      매출분석 · 리뷰분석 · AI 광고생성 · 정부정책정보 · AI챗봇<br/>
-      🏆 인하공전 해커톤 장려상(아이디어상)</p>
+      매출분석 · 리뷰분석 · AI 광고생성 · 정부정책정보 · AI챗봇</p>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <br/><sub>2025.06 ~ 2025.08 · Frontend 담당</sub>
+      <br/><sub>2025.06 ~ 2025.08 · Frontend 담당 · 인하공전 해커톤</sub>
     </td>
     <td width="50%">
       <h3>🧳 MongleTrip</h3>
@@ -61,16 +62,7 @@
     </td>
     <td width="50%">
       <h3>🤟 손말잇기</h3>
-      <p>AI 기반 수어 학습/대화 플랫폼 (캡스톤)<br/>
-      MediaPipe · LSTM 수어 인식 · LLM 대화 시뮬레이션<br/>
-      🏆 인하공전 캡스톤디자인 경진대회 참가</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <br/><sub>졸업작품 · 혼자 진행</sub>
-    </td>
-  </tr>
-</table>
+      <img src="https://img.shields.io/badge/%F0%9F%8F%86_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EC%B0%B8%EA%B0%80-FFD700?style=flat-sq
 
 </br>
 
